@@ -23,8 +23,7 @@ fleas_infection_router = APIRouter(
 )
 
 # Loading Model here.
-pickle_in = open("./fleas_infection/fleas_infection_cnn.pkl", "rb")
-fleas_infection_cnn_classifier = pickle.load(pickle_in)
+fleas_infection_cnn_classifier = load_model("./fleas_infection/fleas_infection_cnn.h5")
 pickle_in = open("./fleas_infection/fleas_infection_ml.pkl", "rb")
 fleas_infection_ml_classifier = pickle.load(pickle_in)
 # Loading the medicine data.

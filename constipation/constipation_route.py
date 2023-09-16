@@ -23,8 +23,7 @@ constipation_router = APIRouter(
 )
 
 # Loading Model here.
-pickle_in = open("./constipation/constipation_cnn.pkl", "rb")
-constipation_cnn_classifier = pickle.load(pickle_in)
+constipation_cnn_classifier = load_model("./constipation/constipation_cnn.h5")
 pickle_in = open("./constipation/constipation_ml.pkl", "rb")
 constipation_ml_classifier = pickle.load(pickle_in)
 # Loading the medicine data.
