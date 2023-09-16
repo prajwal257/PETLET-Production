@@ -1,0 +1,112 @@
+[
+    {
+      "Medicine Name": "Lactulose",
+      "Disease": "Constipation",
+      "Pet Category": "Dog/Cat",
+      "Dosage": "0.25-2 ml/kg",
+      "Administration": "Oral",
+      "Side Effects": "Flatulence, diarrhea",
+      "Interactions": "None reported",
+      "Dosage for Diseases": "Constipation: Administer as directed by vet",
+      "Treatment Protocols": "Consult vet for proper dosage and application"
+    },
+    {
+      "Medicine Name": "Cisapride",
+      "Disease": "Constipation",
+      "Pet Category": "Cat",
+      "Dosage": "0.1-0.5 mg/kg",
+      "Administration": "Oral",
+      "Side Effects": "Vomiting, diarrhea",
+      "Interactions": "Interactions with other drugs",
+      "Dosage for Diseases": "Constipation: Administer as directed by vet",
+      "Treatment Protocols": "Consult vet for proper dosage and application"
+    },
+    {
+      "Medicine Name": "Miralax (Polyethylene Glycol)",
+      "Disease": "Constipation",
+      "Pet Category": "Dog/Cat",
+      "Dosage": "0.25-0.5 tsp/kg",
+      "Administration": "Oral",
+      "Side Effects": "Diarrhea, dehydration",
+      "Interactions": "None reported",
+      "Dosage for Diseases": "Constipation: Administer as directed by vet",
+      "Treatment Protocols": "Consult vet for proper dosage and application"
+    },
+    {
+      "Medicine Name": "Psyllium Husk",
+      "Disease": "Constipation",
+      "Pet Category": "Dog/Cat/Bird",
+      "Dosage": "0.5-1 tsp/kg",
+      "Administration": "Oral",
+      "Side Effects": "Gas, abdominal discomfort",
+      "Interactions": "None reported",
+      "Dosage for Diseases": "Constipation: Administer as directed by vet",
+      "Treatment Protocols": "Consult vet for proper dosage and application"
+    },
+    {
+      "Medicine Name": "Mineral Oil",
+      "Disease": "Constipation",
+      "Pet Category": "Dog/Cat/Bird",
+      "Dosage": "1-3 ml/kg",
+      "Administration": "Oral",
+      "Side Effects": "Anal leakage, diarrhea",
+      "Interactions": "Interactions with other drugs",
+      "Dosage for Diseases": "Constipation: Administer as directed by vet",
+      "Treatment Protocols": "Consult vet for proper dosage and application"
+    },
+    {
+      "Medicine Name": "Dioctyl Sodium Sulfosuccinate (Docusate)",
+      "Disease": "Constipation",
+      "Pet Category": "Dog/Cat/Bird",
+      "Dosage": "1-5 mg/kg",
+      "Administration": "Oral",
+      "Side Effects": "Diarrhea, abdominal cramps",
+      "Interactions": "None reported",
+      "Dosage for Diseases": "Constipation: Administer as directed by vet",
+      "Treatment Protocols": "Consult vet for proper dosage and application"
+    },
+    {
+      "Medicine Name": "Lax'Aire",
+      "Disease": "Constipation",
+      "Pet Category": "Dog/Cat",
+      "Dosage": "1-3 tsp",
+      "Administration": "Oral",
+      "Side Effects": "Diarrhea, gas",
+      "Interactions": "None reported",
+      "Dosage for Diseases": "Constipation: Administer as directed by vet",
+      "Treatment Protocols": "Consult vet for proper dosage and application"
+    },
+    {
+      "Medicine Name": "Canned Pumpkin",
+      "Disease": "Constipation",
+      "Pet Category": "Dog/Cat",
+      "Dosage": "1-2 tbsp/kg",
+      "Administration": "Oral",
+      "Side Effects": "None reported",
+      "Interactions": "None reported",
+      "Dosage for Diseases": "Constipation: Administer as directed by vet",
+      "Treatment Protocols": "Consult vet for proper dosage and application"
+    },
+    {
+      "Medicine Name": "Enemas",
+      "Disease": "Constipation",
+      "Pet Category": "Dog/Cat",
+      "Dosage": "As directed by vet",
+      "Administration": "Rectal",
+      "Side Effects": "Risk of trauma, electrolyte imbalance",
+      "Interactions": "None reported",
+      "Dosage for Diseases": "Constipation: Administer as directed by vet",
+      "Treatment Protocols": "Consult vet for proper dosage and application"
+    },
+    {
+      "Medicine Name": "Lubiprostone",
+      "Disease": "Constipation",
+      "Pet Category": "Dog/Cat",
+      "Dosage": "Varies",
+      "Administration": "Oral",
+      "Side Effects": "Nausea, diarrhea",
+      "Interactions": "None reported",
+      "Dosage for Diseases": "Constipation: Administer as directed by vet",
+      "Treatment Protocols": "Consult vet for proper dosage and application"
+    }
+  ]

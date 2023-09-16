@@ -1,0 +1,112 @@
+[
+    {
+      "Medicine Name": "Otomax (Gentamicin/Betamethasone)",
+      "Disease": "Ear Infection",
+      "Pet Category": "Dog/Cat",
+      "Dosage": "Varies",
+      "Administration": "Ear Drops",
+      "Side Effects": "Local irritation, ototoxicity",
+      "Interactions": "None reported",
+      "Dosage for Diseases": "Otitis Externa: Follow vet instructions",
+      "Treatment Protocols": "Consult vet for underlying cause"
+    },
+    {
+      "Medicine Name": "Tresaderm (Thiabendazole/Dexamethasone/Neomycin)",
+      "Disease": "Ear Infection",
+      "Pet Category": "Dog/Cat",
+      "Dosage": "Varies",
+      "Administration": "Ear Drops",
+      "Side Effects": "Local irritation, hypersensitivity",
+      "Interactions": "None reported",
+      "Dosage for Diseases": "Otitis Externa: Follow vet instructions",
+      "Treatment Protocols": "Consult vet for underlying cause"
+    },
+    {
+      "Medicine Name": "Baytril Otic (Enrofloxacin)",
+      "Disease": "Ear Infection",
+      "Pet Category": "Dog/Cat",
+      "Dosage": "Varies",
+      "Administration": "Ear Drops",
+      "Side Effects": "Local irritation, itching",
+      "Interactions": "None reported",
+      "Dosage for Diseases": "Otitis Externa: Follow vet instructions",
+      "Treatment Protocols": "Consult vet for underlying cause"
+    },
+    {
+      "Medicine Name": "Mometamax (Gentamicin/Mometasone)",
+      "Disease": "Ear Infection",
+      "Pet Category": "Dog",
+      "Dosage": "Varies",
+      "Administration": "Ear Drops",
+      "Side Effects": "Local irritation, ototoxicity",
+      "Interactions": "None reported",
+      "Dosage for Diseases": "Otitis Externa: Follow vet instructions",
+      "Treatment Protocols": "Consult vet for underlying cause"
+    },
+    {
+      "Medicine Name": "Claro (Florfenicol/Terbinofine/Mometasone)",
+      "Disease": "Ear Infection",
+      "Pet Category": "Dog",
+      "Dosage": "Varies",
+      "Administration": "Ear Drops",
+      "Side Effects": "Local irritation, ear discharge",
+      "Interactions": "None reported",
+      "Dosage for Diseases": "Otitis Externa: Follow vet instructions",
+      "Treatment Protocols": "Consult vet for underlying cause"
+    },
+    {
+      "Medicine Name": "Zymox Otic Enzymatic Solution",
+      "Disease": "Ear Infection",
+      "Pet Category": "Dog/Cat/Bird",
+      "Dosage": "Varies",
+      "Administration": "Ear Drops",
+      "Side Effects": "None reported",
+      "Interactions": "None reported",
+      "Dosage for Diseases": "Otitis Externa: Follow package instructions",
+      "Treatment Protocols": "Consult vet for underlying cause"
+    },
+    {
+      "Medicine Name": "MalAcetic Otic Cleanser",
+      "Disease": "Ear Infection",
+      "Pet Category": "Dog/Cat/Bird",
+      "Dosage": "Varies",
+      "Administration": "Ear Drops",
+      "Side Effects": "None reported",
+      "Interactions": "None reported",
+      "Dosage for Diseases": "Otitis Externa: Follow package instructions",
+      "Treatment Protocols": "Consult vet for underlying cause"
+    },
+    {
+      "Medicine Name": "Panolog (Nystatin/Thiostrepton/Neomycin/Triamcinolone)",
+      "Disease": "Ear Infection",
+      "Pet Category": "Dog/Cat",
+      "Dosage": "Varies",
+      "Administration": "Ear Drops",
+      "Side Effects": "Local irritation, hypersensitivity",
+      "Interactions": "None reported",
+      "Dosage for Diseases": "Otitis Externa: Follow vet instructions",
+      "Treatment Protocols": "Consult vet for underlying cause"
+    },
+    {
+      "Medicine Name": "Animax (Nystatin/Neomycin/Thiostrepton/Triamcinolone)",
+      "Disease": "Ear Infection",
+      "Pet Category": "Dog/Cat",
+      "Dosage": "Varies",
+      "Administration": "Ear Drops",
+      "Side Effects": "Local irritation, hypersensitivity",
+      "Interactions": "None reported",
+      "Dosage for Diseases": "Otitis Externa: Follow vet instructions",
+      "Treatment Protocols": "Consult vet for underlying cause"
+    },
+    {
+      "Medicine Name": "MalOtic (Fluocinolone/Antipyrine)",
+      "Disease": "Ear Infection",
+      "Pet Category": "Dog",
+      "Dosage": "Varies",
+      "Administration": "Ear Drops",
+      "Side Effects": "Local irritation, hypersensitivity",
+      "Interactions": "None reported",
+      "Dosage for Diseases": "Otitis Externa: Follow vet instructions",
+      "Treatment Protocols": "Consult vet for underlying cause"
+    }
+  ]

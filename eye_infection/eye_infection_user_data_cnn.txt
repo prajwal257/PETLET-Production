@@ -1,0 +1,13 @@
+image_name, predicted_value, actual_value
+97d14576-4a7c-4bd4-9bf0-d736321df6b9.jpg, [0.], NA 
+
+TEST, NA, b8dce44c-5b36-4f24-8443-4b05efa939f4.jpg, 0.0, NA 
+
+TEST, NA, 4353b35c-e32c-40f7-8c99-7e5f06785552.jpg, 0.0, NA 
+
+TEST, NA, 108bfc3b-491c-4a94-8a0a-95415dc9169d.jpg, 0.0, NA 
+
+TEST, NA, ccbae354-0773-4208-80c2-e5b36b776b4e.jpg, 0.0, NA 
+
+TEST, NA, 4aa393bc-5b67-4ae2-8189-d15f9a83239b.jpg, 0.0, NA
+TEST, NA, 621ed2de-11e7-4778-9a80-367d7f1e4417.jpg, 0.0, NA

@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+    <title>Eye-Infection Prediction</title>
+</head>
+<style>
+    body{
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 0.85rem;
+        margin: 0px;
+        padding: 0px;
+        border: 0px;
+    }
+    a{
+        text-decoration: none;
+        color: #161616;
+    }
+    .btn:hover{
+        background-color: orange !important;
+        border: 1px solid orange !important;
+        color: #161616 !important;
+    }
+    .sidebar{
+        background-size: cover;
+        background-position: center;
+    }
+</style>
+<body class="d-flex">
+    <nav class="position-absolute w-100  ps-4 pe-4 pb-4 pt-4 navbar navbar-expand-lg navbar-light bg-white">
+        <div class="container-fluid">
+          <a class="navbar-brand" href="https://petlet.in/"><span style="color: orange;" class="fw-bold">petlet.in</span></a>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
+            <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+              <li class="nav-item">
+                <a class="nav-link active" aria-current="page" href="/home/WebUI">Home</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link fw-bolder" href="/eye_infection/WebUI/{{ username }}">Eye-Infection</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link fw-bolder" href="/constipation/WebUI/{{ username }}">Constipation</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link fw-bolder" href="/obesity/WebUI/{{ username }}">Obesity</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link fw-bolder" href="/fleas_infection/WebUI/{{ username }}">Fleas-Infection</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </nav>
+    <div class="main-page d-flex col-lg-9 col-md-12 justify-content-center ps-4 pe-4 pb-4 pt-4 mt-4">
+        <div class="container-fluid">
+            <div class="hero mt-5 pt-5">
+                <div class="display-1">Constipation API Testing</div>
+                <p class="col-md-12 col-lg-9 mt-2">Welcome to our Eye Infection Prediction web app for pets! We understand that your furry friends' well-being is a top priority, and detecting eye infections early is essential for their health. This user-friendly tool is designed to help you assess the likelihood of an eye infection in your pet.</p>
+            </div>
+            <form class="form-container col-md-12" action="/constipation/predict_WebUI" method="post" enctype="multipart/form-data" id="myForm">
+                <div class="row mt-4">
+                    <div class="col-lg-3 col-md-4 mb-2">
+                        <label for="input" class="mb-3 fw-bold">Infrequent/absent bowel movements:</label>
+                        <input required name="infrequent_or_absent_bowel_movements" type="number" class="form-control" placeholder="(Yes: 1, No: 0)" aria-label="infrequent_or_absent_bowel_movements">                    
+                    </div>
+                    <div class="col-lg-3 col-md-4 mb-2">
+                        <label for="input" class="mb-3 fw-bold">Small/hard/dry stool:</label>
+                        <input required name="small_hard_dry_stools" type="number" class="form-control" placeholder="(Yes: 1, No: 0)" aria-label="infrequent_or_absent_bowel_movements">                    
+                    </div>
+                    <div class="col-lg-3 col-md-4 mb-2">
+                        <label for="input" class="mb-3 fw-bold">Visible discomfort:</label>
+                        <input required name="visible_discomfort_in_abdomen" type="number" class="form-control" placeholder="(Yes: 1, No: 0)" aria-label="infrequent_or_absent_bowel_movements">                    
+                    </div>
+                </div>
+                <div class="row mt-4">
+                    <div class="col-lg-3 col-md-4 mb-2">
+                        <label for="input" class="mb-3 fw-bold">Visible lack of Appetite:</label>
+                        <input required name="lack_of_appetite" type="number" class="form-control" placeholder="(Yes: 1, No: 0)" aria-label="infrequent_or_absent_bowel_movements">                    
+                    </div>
+                    <div class="col-lg-3 col-md-4 mb-2">
+                        <label for="input" class="mb-3 fw-bold">Visible lack of Energy(Lethargy):</label>
+                        <input required name="lethargy_or_unusual_behavior" type="number" class="form-control" placeholder="(Yes: 1, No: 0)" aria-label="infrequent_or_absent_bowel_movements">                    
+                    </div>
+                    <div class="col-lg-3 col-md-4 mb-2">
+                        <label for="input" class="mb-3 fw-bold">Vomiting:</label>
+                        <input required name="vomiting" type="number" class="form-control" placeholder="(Yes: 1, No: 0)" aria-label="infrequent_or_absent_bowel_movements">                    
+                    </div>
+                </div>
+                <div class="row mt-4">
+                    <div class="col-md-8 col-lg-6">
+                        <label for="formFile" class="mb-3 fw-bold form-label">Please upload a picture of Pet's stool.</label>
+                        <input required name="file" placeholder="Enter the File" class="form-control" type="file" id="formFile">
+                    </div>
+                </div>
+                <div class="row mt-4">
+                    <p class="col-md-12 col-lg-9">By utilizing our models, you acknowledge that they are intended to be used for informational purposes only, and do not constitute professional medical advice or diagnosis.</p>
+                </div>
+                <button type="submit" class="btn btn-primary mt-4">
+                    I understand and Continue
+                </button>
+                <button type="button" class="btn btn-secondary mt-4">
+                    Reset Form
+                </button>
+                <button type="button" class="btn btn-secondary mt-4" data-bs-toggle="modal" data-bs-target="#myModal">Help</button>
+            </form>
+        </div>
+    </div>
+    <div class="sidebar position-fixed end-0 col-lg-3 d-lg-block d-none ps-4 pe-4 pb-4 pt-4" style="background-image: url({{ url_for('static', path='/assets/dog_background_4.jpg') }}); height: 100vh;">
+    </div>
+</body>
+</html>

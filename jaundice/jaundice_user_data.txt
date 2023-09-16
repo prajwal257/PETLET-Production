@@ -1,0 +1,4 @@
+requestID, vomiting, diarrhoea, lethargy, fever, abdominal_pain, loss_of_appetite, paleness, yellowish_skin, change_in_urine_feces, polyuria, polydipsia, mental_confusion, weight_loss, bleeding, predicted, actual
+TEST, 1, 0, 0, 104.0, 0, 0, 1, 1, 1, 1, 1, 1, 1.0, 1, 1, NA 
+TEST, 1, 0, 0, 104.0, 0, 0, 1, 1, 1, 1, 1, 1, 1.0, 1, 1, NA 
+TEST, 1, 0, 0, 104.0, 0, 0, 1, 1, 1, 1, 1, 1, 1.0, 1, 1, NA 

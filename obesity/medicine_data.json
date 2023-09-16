@@ -1,0 +1,112 @@
+[
+    {
+      "Medicine Name": "Orlistat",
+      "Disease": "Obesity",
+      "Pet Category": "Dog/Cat",
+      "Dosage": "Varies",
+      "Administration": "Oral",
+      "Side Effects": "Gastrointestinal upset, oily stools",
+      "Interactions": "Decreased fat-soluble vitamins",
+      "Dosage for Diseases": "Obesity: 1-2 mg/kg twice daily with meals",
+      "Treatment Protocols": "Consult vet for weight management"
+    },
+    {
+      "Medicine Name": "Dirlotapide",
+      "Disease": "Obesity",
+      "Pet Category": "Dog",
+      "Dosage": "Varies",
+      "Administration": "Oral",
+      "Side Effects": "Vomiting, diarrhea, lethargy",
+      "Interactions": "Avoid with certain drugs, liver disease",
+      "Dosage for Diseases": "Obesity: 0.3-0.5 mg/kg once daily with meals",
+      "Treatment Protocols": "Strictly follow vet guidance"
+    },
+    {
+      "Medicine Name": "Sibutramine",
+      "Disease": "Obesity",
+      "Pet Category": "Dog/Cat",
+      "Dosage": "Varies",
+      "Administration": "Oral",
+      "Side Effects": "Increased heart rate, hypertension",
+      "Interactions": "Avoid with certain drugs, heart disease",
+      "Dosage for Diseases": "Obesity: 0.1-0.3 mg/kg once daily",
+      "Treatment Protocols": "Consult vet for weight management"
+    },
+    {
+      "Medicine Name": "Levothyroxine",
+      "Disease": "Obesity",
+      "Pet Category": "Dog/Cat",
+      "Dosage": "Varies",
+      "Administration": "Oral",
+      "Side Effects": "Increased thirst, panting, weight loss",
+      "Interactions": "Can affect other medications",
+      "Dosage for Diseases": "Obesity: Dosage depends on thyroid function",
+      "Treatment Protocols": "Consult vet for thyroid evaluation"
+    },
+    {
+      "Medicine Name": "Liraglutide",
+      "Disease": "Obesity",
+      "Pet Category": "Dog",
+      "Dosage": "Varies",
+      "Administration": "Injection",
+      "Side Effects": "Nausea, vomiting, diarrhea",
+      "Interactions": "Insulin, oral hypoglycemics",
+      "Dosage for Diseases": "Obesity: 0.6 mg/kg subcutaneously once daily",
+      "Treatment Protocols": "Strictly follow vet guidance"
+    },
+    {
+      "Medicine Name": "Carnitine",
+      "Disease": "Obesity",
+      "Pet Category": "Dog/Cat",
+      "Dosage": "Varies",
+      "Administration": "Oral",
+      "Side Effects": "Gastrointestinal upset",
+      "Interactions": "N/A",
+      "Dosage for Diseases": "Obesity: 50-100 mg/kg once daily",
+      "Treatment Protocols": "Consult vet for weight management"
+    },
+    {
+      "Medicine Name": "Metformin",
+      "Disease": "Obesity",
+      "Pet Category": "Dog/Cat",
+      "Dosage": "Varies",
+      "Administration": "Oral",
+      "Side Effects": "Gastrointestinal upset",
+      "Interactions": "Decreased vitamin B12 absorption",
+      "Dosage for Diseases": "Obesity: Dosage varies, consult vet",
+      "Treatment Protocols": "Consult vet for weight management"
+    },
+    {
+      "Medicine Name": "Topiramate",
+      "Disease": "Obesity",
+      "Pet Category": "Dog/Cat",
+      "Dosage": "Varies",
+      "Administration": "Oral",
+      "Side Effects": "Sedation, appetite loss",
+      "Interactions": "Can interact with other drugs",
+      "Dosage for Diseases": "Obesity: Dosage varies, consult vet",
+      "Treatment Protocols": "Consult vet for weight management"
+    },
+    {
+      "Medicine Name": "Diazoxide",
+      "Disease": "Obesity",
+      "Pet Category": "Dog/Cat",
+      "Dosage": "Varies",
+      "Administration": "Oral",
+      "Side Effects": "Increased thirst, urination",
+      "Interactions": "Hypoglycemia",
+      "Dosage for Diseases": "Obesity: Dosage varies, consult vet",
+      "Treatment Protocols": "Consult vet for weight management"
+    },
+    {
+      "Medicine Name": "Mitratapide",
+      "Disease": "Obesity",
+      "Pet Category": "Dog/Cat",
+      "Dosage": "Varies",
+      "Administration": "Oral",
+      "Side Effects": "Vomiting, diarrhea, lethargy",
+      "Interactions": "Avoid with certain drugs, liver disease",
+      "Dosage for Diseases": "Obesity: Dosage varies, consult vet",
+      "Treatment Protocols": "Consult vet for weight management"
+    }
+  ]

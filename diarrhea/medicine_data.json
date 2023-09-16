@@ -1,0 +1,112 @@
+[
+    {
+      "Medicine Name": "Metronidazole",
+      "Disease": "Diarrhea",
+      "Pet Category": "Dog/Cat",
+      "Dosage": "Varies",
+      "Administration": "Oral",
+      "Side Effects": "Vomiting, loss of appetite",
+      "Interactions": "Alcohol, warfarin",
+      "Dosage for Diseases": "Giardiasis: 10-15 mg/kg every 24 hours for 3-5 days",
+      "Treatment Protocols": "Consult vet for underlying cause"
+    },
+    {
+      "Medicine Name": "Tylan Powder",
+      "Disease": "Diarrhea",
+      "Pet Category": "Dog/Cat",
+      "Dosage": "Varies",
+      "Administration": "Oral",
+      "Side Effects": "Vomiting, diarrhea",
+      "Interactions": "Macrolide antibiotics",
+      "Dosage for Diseases": "Chronic Diarrhea: 5-15 mg/kg every 12 hours",
+      "Treatment Protocols": "Consult vet for underlying cause"
+    },
+    {
+      "Medicine Name": "Kaolin-Pectin",
+      "Disease": "Diarrhea",
+      "Pet Category": "Dog/Cat",
+      "Dosage": "Varies",
+      "Administration": "Oral",
+      "Side Effects": "Constipation, gas",
+      "Interactions": "None reported",
+      "Dosage for Diseases": "Diarrhea: Follow package instructions",
+      "Treatment Protocols": "Supportive care, consult vet"
+    },
+    {
+      "Medicine Name": "Probiotics",
+      "Disease": "Diarrhea",
+      "Pet Category": "Dog/Cat",
+      "Dosage": "Varies",
+      "Administration": "Oral",
+      "Side Effects": "None reported",
+      "Interactions": "None reported",
+      "Dosage for Diseases": "N/A",
+      "Treatment Protocols": "Support gut health, consult vet"
+    },
+    {
+      "Medicine Name": "Loperamide",
+      "Disease": "Diarrhea",
+      "Pet Category": "Dog/Cat",
+      "Dosage": "Varies",
+      "Administration": "Oral",
+      "Side Effects": "Constipation",
+      "Interactions": "CNS depressants",
+      "Dosage for Diseases": "Diarrhea: 0.04-0.2 mg/kg every 8-12 hours",
+      "Treatment Protocols": "Consult vet for underlying cause"
+    },
+    {
+      "Medicine Name": "Imodium (Loperamide)",
+      "Disease": "Diarrhea",
+      "Pet Category": "Dog/Cat",
+      "Dosage": "Varies",
+      "Administration": "Oral",
+      "Side Effects": "Constipation",
+      "Interactions": "CNS depressants",
+      "Dosage for Diseases": "Diarrhea: 0.05-0.1 mg/kg every 8-12 hours",
+      "Treatment Protocols": "Consult vet for underlying cause"
+    },
+    {
+      "Medicine Name": "Metoclopramide",
+      "Disease": "Diarrhea",
+      "Pet Category": "Dog/Cat",
+      "Dosage": "Varies",
+      "Administration": "Oral",
+      "Side Effects": "Restlessness, sedation",
+      "Interactions": "None reported",
+      "Dosage for Diseases": "Diarrhea: 0.2-0.5 mg/kg every 8-12 hours",
+      "Treatment Protocols": "Consult vet for underlying cause"
+    },
+    {
+      "Medicine Name": "Pepto-Bismol",
+      "Disease": "Diarrhea",
+      "Pet Category": "Dog/Cat",
+      "Dosage": "Varies",
+      "Administration": "Oral",
+      "Side Effects": "Dark stools, vomiting",
+      "Interactions": "Interactions with other drugs",
+      "Dosage for Diseases": "Diarrhea: Follow package instructions",
+      "Treatment Protocols": "Supportive care, consult vet"
+    },
+    {
+      "Medicine Name": "Sulfasalazine",
+      "Disease": "Diarrhea",
+      "Pet Category": "Dog/Cat",
+      "Dosage": "Varies",
+      "Administration": "Oral",
+      "Side Effects": "Vomiting, loss of appetite",
+      "Interactions": "Some antibiotics",
+      "Dosage for Diseases": "Inflammatory Bowel Disease: 20-50 mg/kg every 12-24 hours",
+      "Treatment Protocols": "Consult vet for proper diagnosis"
+    },
+    {
+      "Medicine Name": "Flagyl (Metronidazole)",
+      "Disease": "Diarrhea",
+      "Pet Category": "Dog/Cat",
+      "Dosage": "Varies",
+      "Administration": "Oral",
+      "Side Effects": "Vomiting, loss of appetite",
+      "Interactions": "Alcohol, warfarin",
+      "Dosage for Diseases": "Diarrhea: 10-15 mg/kg every 24 hours for 3-5 days",
+      "Treatment Protocols": "Consult vet for underlying cause"
+    }
+  ]

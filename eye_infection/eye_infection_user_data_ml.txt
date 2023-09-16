@@ -1,0 +1,8 @@
+age,breed,sex,redness,swelling,discharge,prediction, actual
+4, 15, 1, 0, 1, 1, [1.], NA 
+TEST, NA, 4, 15, 1, 0, 1, 1, 1
+
+TEST, NA, 4, 15, 1, 1, 1, 1, 1
+
+TEST, NA, 1, 1, 1, 1, 1, 1, 1
+TEST, NA, 1, 1, 1, 1, 1, 1, 1

@@ -1,0 +1,16 @@
+{
+    "vomiting"               : 1,
+    "diarrhoea"              : 0,
+    "lethargy"               : 0,
+    "fever"                  : 104.0,
+    "abdominal_pain"         : 0,
+    "loss_of_appetite"       : 0,
+    "paleness"               : 1,
+    "yellowish_skin"         : 1,
+    "change_in_urine_feces"  : 1,
+    "polyuria"               : 1,
+    "polydipsia"             : 1,
+    "mental_confusion"       : 1,
+    "weight_loss"            : 1,
+    "bleeding"               : 1
+}

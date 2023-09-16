@@ -1,0 +1,4 @@
+requestID, Age(months), Blood_presence, Consistency, Diet_changes, Breed, Prediction, Feedback \n
+TEST, 6, 1, 2, 1, 11, 1, NA 
+TEST, 6, 0, 2, 0, 11, 0, NA 
+TEST, 6, 1, 2, 1, 11, 1, NA 

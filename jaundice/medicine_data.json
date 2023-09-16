@@ -1,0 +1,112 @@
+[
+    {
+      "Medicine Name": "Ursodeoxycholic Acid",
+      "Disease": "Jaundice",
+      "Pet Category": "Dog/Cat/Bird",
+      "Dosage": "Varies",
+      "Administration": "Oral",
+      "Side Effects": "Diarrhea, vomiting, abdominal pain",
+      "Interactions": "N/A",
+      "Dosage for Diseases": "Cholestasis: 10-15 mg/kg once daily",
+      "Treatment Protocols": "Consult vet for underlying cause"
+    },
+    {
+      "Medicine Name": "N-acetylcysteine",
+      "Disease": "Jaundice",
+      "Pet Category": "Dog/Cat/Bird",
+      "Dosage": "Varies",
+      "Administration": "Oral, Injection",
+      "Side Effects": "Nausea, vomiting, rash",
+      "Interactions": "Drug interactions",
+      "Dosage for Diseases": "Hepatic toxicity: Dosage varies, consult vet",
+      "Treatment Protocols": "Consult vet for underlying cause"
+    },
+    {
+      "Medicine Name": "Denamarin",
+      "Disease": "Jaundice",
+      "Pet Category": "Dog/Cat",
+      "Dosage": "Varies",
+      "Administration": "Oral",
+      "Side Effects": "None reported",
+      "Interactions": "None reported",
+      "Dosage for Diseases": "Hepatic dysfunction: Follow package instructions",
+      "Treatment Protocols": "Consult vet for underlying cause"
+    },
+    {
+      "Medicine Name": "Milk Thistle Extract",
+      "Disease": "Jaundice",
+      "Pet Category": "Dog/Cat/Bird",
+      "Dosage": "Varies",
+      "Administration": "Oral",
+      "Side Effects": "None reported",
+      "Interactions": "None reported",
+      "Dosage for Diseases": "Liver support: Follow package instructions",
+      "Treatment Protocols": "Consult vet for underlying cause"
+    },
+    {
+      "Medicine Name": "Vitamin K1",
+      "Disease": "Jaundice",
+      "Pet Category": "Dog/Cat",
+      "Dosage": "Varies",
+      "Administration": "Oral, Injection",
+      "Side Effects": "Hypersensitivity, anemia",
+      "Interactions": "Interactions with blood thinners",
+      "Dosage for Diseases": "Vitamin K deficiency: Dosage varies, consult vet",
+      "Treatment Protocols": "Consult vet for underlying cause"
+    },
+    {
+      "Medicine Name": "SAMe (S-Adenosylmethionine)",
+      "Disease": "Jaundice",
+      "Pet Category": "Dog/Cat",
+      "Dosage": "Varies",
+      "Administration": "Oral",
+      "Side Effects": "Nausea, diarrhea, stomach upset",
+      "Interactions": "None reported",
+      "Dosage for Diseases": "Hepatic dysfunction: Dosage varies, consult vet",
+      "Treatment Protocols": "Consult vet for underlying cause"
+    },
+    {
+      "Medicine Name": "Rifampin",
+      "Disease": "Jaundice",
+      "Pet Category": "Dog/Cat",
+      "Dosage": "Varies",
+      "Administration": "Oral",
+      "Side Effects": "Vomiting, diarrhea, hepatotoxicity",
+      "Interactions": "Interactions with other drugs",
+      "Dosage for Diseases": "Hepatic encephalopathy: Dosage varies, consult vet",
+      "Treatment Protocols": "Consult vet for underlying cause"
+    },
+    {
+      "Medicine Name": "Lactulose",
+      "Disease": "Jaundice",
+      "Pet Category": "Dog/Cat",
+      "Dosage": "Varies",
+      "Administration": "Oral",
+      "Side Effects": "Abdominal discomfort, diarrhea",
+      "Interactions": "N/A",
+      "Dosage for Diseases": "Hepatic encephalopathy: Dosage varies, consult vet",
+      "Treatment Protocols": "Consult vet for underlying cause"
+    },
+    {
+      "Medicine Name": "Metoclopramide",
+      "Disease": "Jaundice",
+      "Pet Category": "Dog/Cat",
+      "Dosage": "Varies",
+      "Administration": "Oral, Injection",
+      "Side Effects": "Restlessness, drowsiness",
+      "Interactions": "Avoid with certain conditions",
+      "Dosage for Diseases": "Hepatic dysfunction: Dosage varies, consult vet",
+      "Treatment Protocols": "Consult vet for underlying cause"
+    },
+    {
+      "Medicine Name": "Antioxidant Supplements",
+      "Disease": "Jaundice",
+      "Pet Category": "Dog/Cat/Bird",
+      "Dosage": "Varies",
+      "Administration": "Oral",
+      "Side Effects": "None reported",
+      "Interactions": "None reported",
+      "Dosage for Diseases": "Liver support: Follow package instructions",
+      "Treatment Protocols": "Consult vet for underlying cause"
+    }
+  ]

@@ -1,0 +1,17 @@
+{
+    "requestID": "TEST",
+    "age": 6,
+    "blood_presence": 1,
+    "consistency": 2,
+    "diet_changes": 1,
+    "breed": 11
+}
+
+{
+    "requestID": "TEST",
+    "age": 6,
+    "blood_presence": 0,
+    "consistency": 2,
+    "diet_changes": 0,
+    "breed": 11
+}

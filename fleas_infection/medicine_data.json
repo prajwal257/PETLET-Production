@@ -1,0 +1,112 @@
+[
+    {
+      "Medicine Name": "Frontline Plus (Fipronil/S-Methoprene)",
+      "Disease": "Flea Infectation",
+      "Pet Category": "Dog/Cat/Bird",
+      "Dosage": "Apply entire contents of applicator",
+      "Administration": "Topical",
+      "Side Effects": "Skin irritation, hair loss",
+      "Interactions": "None reported",
+      "Dosage for Diseases": "Flea Infestation: Apply as directed by vet",
+      "Treatment Protocols": "Consult vet for proper dosage and application"
+    },
+    {
+      "Medicine Name": "Advantage II (Imidacloprid/Pyrriproxyfen)",
+      "Disease": "Flea Infectation",
+      "Pet Category": "Dog/Cat/Bird",
+      "Dosage": "Apply entire contents of applicator",
+      "Administration": "Topical",
+      "Side Effects": "Skin irritation, hair loss",
+      "Interactions": "None reported",
+      "Dosage for Diseases": "Flea Infestation: Apply as directed by vet",
+      "Treatment Protocols": "Consult vet for proper dosage and application"
+    },
+    {
+      "Medicine Name": "Revolution (Selamectin)",
+      "Disease": "Flea Infectation",
+      "Pet Category": "Dog/Cat/Bird",
+      "Dosage": "6 mg/kg",
+      "Administration": "Topical",
+      "Side Effects": "Hair loss, skin irritation",
+      "Interactions": "None reported",
+      "Dosage for Diseases": "Flea Infestation: Apply as directed by vet",
+      "Treatment Protocols": "Consult vet for proper dosage and application"
+    },
+    {
+      "Medicine Name": "Comfortis (Spinosad)",
+      "Disease": "Flea Infectation",
+      "Pet Category": "Dog/Cat",
+      "Dosage": "30 mg/kg",
+      "Administration": "Oral",
+      "Side Effects": "Vomiting, diarrhea, lethargy",
+      "Interactions": "None reported",
+      "Dosage for Diseases": "Flea Infestation: Administer as directed by vet",
+      "Treatment Protocols": "Consult vet for proper dosage and application"
+    },
+    {
+      "Medicine Name": "Capstar (Nitenpyram)",
+      "Disease": "Flea Infectation",
+      "Pet Category": "Dog/Cat/Bird",
+      "Dosage": "1 mg/kg",
+      "Administration": "Oral",
+      "Side Effects": "Hyperactivity, panting",
+      "Interactions": "None reported",
+      "Dosage for Diseases": "Flea Infestation: Administer as directed by vet",
+      "Treatment Protocols": "Consult vet for proper dosage and application"
+    },
+    {
+      "Medicine Name": "Bravecto (Fluralaner)",
+      "Disease": "Flea Infectation",
+      "Pet Category": "Dog/Cat",
+      "Dosage": "11.4 mg/kg",
+      "Administration": "Oral",
+      "Side Effects": "Vomiting, diarrhea, lethargy",
+      "Interactions": "None reported",
+      "Dosage for Diseases": "Flea Infestation: Administer as directed by vet",
+      "Treatment Protocols": "Consult vet for proper dosage and application"
+    },
+    {
+      "Medicine Name": "NexGard (Afoxolaner)",
+      "Disease": "Flea Infectation",
+      "Pet Category": "Dog/Cat",
+      "Dosage": "2.5 mg/kg",
+      "Administration": "Oral",
+      "Side Effects": "Vomiting, lethargy, tremors",
+      "Interactions": "None reported",
+      "Dosage for Diseases": "Flea Infestation: Administer as directed by vet",
+      "Treatment Protocols": "Consult vet for proper dosage and application"
+    },
+    {
+      "Medicine Name": "Seresto Collar (Imidacloprid/Flumethrin)",
+      "Disease": "Flea Infectation",
+      "Pet Category": "Dog/Cat/Bird",
+      "Dosage": "Apply one collar per pet",
+      "Administration": "Collar",
+      "Side Effects": "Local irritation, hair loss",
+      "Interactions": "None reported",
+      "Dosage for Diseases": "Flea Infestation: Apply collar as directed by vet",
+      "Treatment Protocols": "Consult vet for proper dosage and application"
+    },
+    {
+      "Medicine Name": "Vectra 3D (Dinotefuran/Permethrin/Pyriproxyfen)",
+      "Disease": "Flea Infectation",
+      "Pet Category": "Dog",
+      "Dosage": "Apply entire contents of applicator",
+      "Administration": "Topical",
+      "Side Effects": "Skin irritation, hair loss",
+      "Interactions": "None reported",
+      "Dosage for Diseases": "Flea Infestation: Apply as directed by vet",
+      "Treatment Protocols": "Consult vet for proper dosage and application"
+    },
+    {
+      "Medicine Name": "Program (Lufenuron)",
+      "Disease": "Flea Infectation",
+      "Pet Category": "Dog/Cat",
+      "Dosage": "Varies",
+      "Administration": "Oral",
+      "Side Effects": "Vomiting, diarrhea",
+      "Interactions": "None reported",
+      "Dosage for Diseases": "Flea Infestation: Administer as directed by vet",
+      "Treatment Protocols": "Consult vet for proper dosage and application"
+    }
+  ]
