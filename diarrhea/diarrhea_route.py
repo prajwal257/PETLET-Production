@@ -38,4 +38,10 @@ def predict(data : diarrhea_class):
 
 @diarrhea_router.post("/feedback")
 async def submit_feedback(data: feedback_class):
-    return true
+    diarrhea_feedback   = open("./diarrhea/feedback_user_data.txt", "a")
+    requestID = str(data.requestID)
+    feedback_score = str(data.feedback_score)
+    new_row = requestID + ", " + feedback_score + "\n"
+    print(new_row)
+    diarrhea_feedback.write(new_row)
+    return True

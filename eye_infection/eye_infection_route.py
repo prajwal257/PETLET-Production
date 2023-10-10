@@ -3,7 +3,7 @@ from fastapi.templating import Jinja2Templates
 from authorized_users import authorized_users
 from fastapi.responses import HTMLResponse
 from fastapi.responses import FileResponse
-from data_class import eye_infection_class
+from data_class import eye_infection_class, feedback_class
 from keras.models import load_model
 from random import randint
 import tensorflow as tf
@@ -57,8 +57,8 @@ async def eye_infection_classifier(
     update_cnn_user_data(requestID, file.filename, cnn_prediction)
     ml_prediction = (eye_infection_ml_classifier.predict([[age, breed, sex, redness, swelling, discharge]])[0])
     update_ml_user_data(requestID, age, breed, sex, redness, swelling, discharge, ml_prediction)
-    prediction = ml_prediction + cnn_prediction
-    if(float(prediction) > 0.85):
+    prediction = float(ml_prediction + cnn_prediction)
+    if(prediction > 0.85):
         return {"prediction": prediction, "medicine_data": eye_infection_medicine_data}
         # return templates.TemplateResponse("results.html", {"request": request, "prediction": prediction, "medicine_data": eye_infection_medicine_data})
     else:
@@ -99,8 +99,8 @@ async def submit_Response(
     update_cnn_user_data(requestID, file.filename, cnn_prediction)
     ml_prediction = (eye_infection_ml_classifier.predict([[age, breed, sex, redness, swelling, discharge]])[0])
     update_ml_user_data(requestID, age, breed, sex, redness, swelling, discharge, ml_prediction)
-    prediction = ml_prediction + cnn_prediction
-    if(float(prediction) > 0.85):
+    prediction = float(ml_prediction + cnn_prediction)
+    if(prediction > 0.85):
         # return {"prediction": prediction, "medicine_data": eye_infection_medicine_data}
         return templates.TemplateResponse("results.html", {"request": request, "prediction": prediction, "medicine_data": eye_infection_medicine_data})
     else:

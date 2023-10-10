@@ -69,8 +69,8 @@ async def fleas_infection_classifier(
         currentseason,
         location
     ]])
-    prediction = ml_prediction + cnn_prediction
-    if(float(prediction) > 0.85):
+    prediction = float(ml_prediction + cnn_prediction)
+    if(prediction > 0.85):
         return {"prediction": prediction, "medicine_data": fleas_infection_medicine_data}
         # return templates.TemplateResponse("results.html", {"request": request, "prediction": prediction, "medicine_data": fleas_infection_medicine_data})
     else:

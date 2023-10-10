@@ -1,6 +1,7 @@
 # from data_class import ear_infection_class
 from fastapi import FastAPI, File, UploadFile, Depends, APIRouter
 from fastapi.responses import FileResponse
+from data_class import feedback_class
 from keras.models import load_model
 import tensorflow as tf
 import pandas as pd
@@ -43,3 +44,13 @@ async def create_upload_file(file: UploadFile = File(...)):
         return {"prediction": cnn_prediction, "medicine_data": ear_infection_medicine_data}
     else:
         return {"prediction": cnn_prediction}
+    
+@ear_infection_router.post("/feedback")
+async def submit_feedback(data: feedback_class):
+    ear_infection_feedback   = open("./ear_infection/feedback_user_data.txt", "a")
+    requestID = str(data.requestID)
+    feedback_score = str(data.feedback_score)
+    new_row = requestID + ", " + feedback_score + "\n"
+    print(new_row)
+    ear_infection_feedback.write(new_row)
+    return True

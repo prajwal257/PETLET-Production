@@ -8,7 +8,7 @@ jaundice_router = APIRouter(
     prefix="/jaundice",
     tags=["Jaundice Prediction"]
 )
-# Loading diarrhea Model here.
+# Loading jaundice Model here.
 pickle_in = open("./jaundice/jaundice.pkl", "rb")
 jaundice_classifier = pickle.load(pickle_in)
 jaundice_medicine_data = ""
@@ -49,4 +49,10 @@ def predict(data : jaundice_class):
 
 @jaundice_router.post("/feedback")
 async def submit_feedback(data: feedback_class):
+    jaundice_feedback   = open("./jaundice/feedback_user_data.txt", "a")
+    requestID = str(data.requestID)
+    feedback_score = str(data.feedback_score)
+    new_row = requestID + ", " + feedback_score + "\n"
+    print(new_row)
+    jaundice_feedback.write(new_row)
     return True
